@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    max-width: 100%;
+}
+.nav {
+    position: fixed;
+    background: lightblue;
+    margin: 5px 5px;
+    position: relative;
+    text-align: center;
+}
+.nav-item {
+    display: inline-block;
+}
+.nav-item a {
+    margin: 5px 20px;
+}
+main {
+    margin: 5px;
+}
